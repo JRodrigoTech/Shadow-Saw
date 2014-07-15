@@ -4,20 +4,20 @@ Shadow Saw
 
 BOM
 ==========
-1 x 50 mm circular saw (ebay)
-1 x 12V Motor (ebay)
-1 x 12V 2A Power supply (ebay)
-1 x Switch On/Off
-1 x M6x30 screw
-2 x M6 nut
-1 x M6 nut DIN-985
-2 x M6 Washer 
-8 x M5x20 screw DIN-7991
-8 x M5 nut
-4 x M3x10 screw
-2 x M3x15 screw
-2 x M3x5 screw
-8 x M3 nut
+- 1x *50 mm circular saw (ebay)*
+- 1x *12V Motor (ebay)*
+- 1x *12V 2A Power supply (ebay)*
+- 1x *Switch On/Off*
+- 1x *M6x30 screw*
+- 2x *M6 nut*
+- 1x *M6 nut DIN-985*
+- 2x *M6 Washer*
+- 8x *M5x20 screw DIN-7991*
+- 8x *M5 nut*
+- 4x *M3x10 screw*
+- 2x *M3x15 screw*
+- 2x *M3x5 screw*
+- 8x *M3 nut*
 
 
 Photo Gallery
