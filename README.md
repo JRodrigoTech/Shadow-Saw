@@ -4,9 +4,9 @@ Shadow Saw
 
 BOM
 ==========
-- 1x *50 mm circular saw (ebay)*
-- 1x *12V Motor (ebay)*
-- 1x *12V 2A Power supply (ebay)*
+- 1x *50 mm circular saw ([ebay](http://www.ebay.com/itm/291125583312))*
+- 1x *12V Motor ([ebay](http://www.ebay.com/itm/221400982574))*
+- 1x *12V 2A Power supply ([ebay](http://www.ebay.com/itm/180845678761))*
 - 1x *Switch On/Off*
 - 1x *M6x30 screw*
 - 2x *M6 nut*
